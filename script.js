@@ -52,7 +52,7 @@ function carregaDicionario() {
 
         bio08: {
             nome: "Lélia Gonzalez",
-            imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7fO6qxUtwK8We5PUdJNLZljBbITPDlg0jwJa2nS6zA&s",
+            imagem: "https://www.aulatica.com.br/wp-content/uploads/2021/04/lelia-gonzalez-quem-foi.jpg",
             minibio: "Lélia Gonzalez foi uma intelectual, política, professora e antropóloga brasileira. Ajudou a fundar instituições como o Movimento Negro Unificado (MNU), o Instituto de Pesquisas das Culturas Negras (IPCN), o Coletivo de Mulheres Negras N'Zinga e o Olodum. Sua militância em defesa da mulher negra levou-a ao Conselho Nacional dos Direitos da Mulher (CNDM), no qual atuou de 1985 a 1989. Foi candidata a deputada federal pelo PT, elegendo-se primeira suplente. Nas eleições seguintes, em 1986, candidatou-se a deputada estadual pelo PDT, novamente elegendo-se suplente.",
             citacao: "A gente não nasce negro, a gente se torna negro. É uma conquista dura, cruel e que se desenvolve pela vida da gente afora."
         },
